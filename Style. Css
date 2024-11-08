@@ -1,1 +1,23 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  background: black;
+}
+html, body{
+  height: 100%;
+  width: 100%;
+}
+#bulb{
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  background: yellow;
+}
+button{
+  padding: 7px;
+  color: white;
+  background: palegreen;
+  border-color: red skyblue white purple;
+}
 
